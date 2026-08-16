@@ -1,4 +1,8 @@
-## Hi, I'm Melvin, a Computer Science graduate interested in software engineering, machine learning and data science.
+## Hi, I'm Melvin
+I'm a Computer Science graduate interested in software engineering, machine learning and data science. 
+
+## Features Projects
+
 
 <!--
 **melvin014/melvin014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
