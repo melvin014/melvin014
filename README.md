@@ -1,7 +1,7 @@
 ## Hi, I'm Melvin
 I'm a Computer Science graduate interested in software engineering, machine learning and data science. 
 
-## Features Projects
+## Featured Projects
 
 
 <!--
